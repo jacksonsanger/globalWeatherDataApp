@@ -9,7 +9,7 @@ The **DataViewer Application** is a modular and extensible tool for visualizing 
 - **Observer Pattern**: Ensures synchronized updates between the data model and the visual interface.
 - **Robust Parsing**: Reads and validates temperature records from CSV files, handling various formats gracefully.
 
-## Architecture Overview
+## Architecture Overview - **SEE UMLDiagram.drawio.png for clear understanding!!**
 The application is built around the principles of object-oriented programming and is divided into distinct components:
 
 ### Classes and Responsibilities
